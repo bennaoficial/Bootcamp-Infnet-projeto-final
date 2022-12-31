@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "benaion",
+    "password": "12345678",
+    "database": "adminjs-projeto",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "benaion",
+    "password": "12345678",
+    "database": "adminjs-projeto",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "benaion",
+    "password": "12345678",
+    "database": "adminjs-projeto",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
